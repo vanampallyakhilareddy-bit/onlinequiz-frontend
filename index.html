@@ -57,7 +57,7 @@
         let answered = false;
         async function loadQuiz() {
             try {
-                const response = await fetch('/api/quiz');
+                const response = await fetch(('https://onlinequiz-backend-1.onrender.com/api/quiz');
                 if (!response.ok) throw new Error('Could not load questions');
                 questions = await response.json();
                 showQuestion();
