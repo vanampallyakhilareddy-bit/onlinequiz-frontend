@@ -27,3 +27,14 @@ Project Repositories
 
 * Frontend: https://github.com/vanampallyakhilareddy-bit/onlinequiz-frontend
 * Backend: https://github.com/vanampallyakhilareddy-bit/onlinequiz-backend
+Live Full-Stack Project Output
+
+Frontend + Backend + MySQL
+
+* Open Live Quiz Application
+* View Backend API Output
+* Frontend Source Code
+* Backend Source Code
+
+The frontend fetches quiz questions from the Java Spring Boot backend, which connects to the MySQL database.
+
